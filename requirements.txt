@@ -1,0 +1,7 @@
+pandas
+openai
+azure-ai-inference
+azure-ai-resources
+elasticsearch
+streamlit
+python-dotenv
