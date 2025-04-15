@@ -1,6 +1,7 @@
 pandas
 openai
 azure-ai-inference
+azure-ai-ml
 azure-ai-resources
 elasticsearch
 streamlit
